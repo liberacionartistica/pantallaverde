@@ -7,6 +7,7 @@
     <style>
         body {
             background-color: #03ff00;
+            color: #03ff00;
             margin: 0;
             height: 100vh;
             width: 100vw;
