@@ -6,7 +6,7 @@
     <title>Pantalla Verde</title>
     <style>
         body {
-            background-color: green;
+            background-color: #66ff66;
             margin: 0;
             height: 100vh;
             width: 100vw;
@@ -16,3 +16,4 @@
 <body>
 </body>
 </html>
+
